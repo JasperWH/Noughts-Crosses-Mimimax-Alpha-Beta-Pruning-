@@ -1,5 +1,4 @@
 #include <iostream>
-#include <algorithm>
 #include "Header.h"
 
 int main() {
